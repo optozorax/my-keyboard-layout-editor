@@ -1,6 +1,6 @@
 <!--***********************************************
 KEYBOARD LAYOUT EDITOR
-Copyright (C) 2013-2018 Ian Prest
+Copyright (C) 2013-2015 Ian Prest
 All rights reserved.
 ************************************************-->
 <!DOCTYPE html>
@@ -388,9 +388,9 @@ Nav Bar / Header
           <div class="col-md-9 col-lg-9">
             <div class="form-inline hint--top hint--rounded"
                  data-hint="Specify the primary and secondary widths for the keycap. The secondary width is used to specify the size of non-rectangular or stepped keys.">
-              <kbd-multi-numbox field="width" size="6" min="0.5" max="24" step='{{sizeStep}}'></kbd-multi-numbox>
+              <kbd-multi-numbox field="width" size="6" min="0.5" max="18" step='{{sizeStep}}'></kbd-multi-numbox>
               <div class="form-group form-group-sm"> / </div>
-              <kbd-multi-numbox field="width2" size="6" min="0.5" max="24" step='{{sizeStep}}' kbd-disable="multi.decal"></kbd-multi-numbox>
+              <kbd-multi-numbox field="width2" size="6" min="0.5" max="18" step='{{sizeStep}}' kbd-disable="multi.decal"></kbd-multi-numbox>
             </div>
 
             <!-- Swap Sizes Button -->
@@ -414,9 +414,9 @@ Nav Bar / Header
           <div class="col-md-9 col-lg-9">
             <div class="form-inline hint--top hint--rounded"
                  data-hint="Specify the primary and secondary heights for the keycap. The secondary height is used to specify the size of non-rectangular or stepped keys.">
-              <kbd-multi-numbox field="height" size="6" min="0.5" max="24" step='{{sizeStep}}'></kbd-multi-numbox>
+              <kbd-multi-numbox field="height" size="6" min="0.5" max="18" step='{{sizeStep}}'></kbd-multi-numbox>
               <div class="form-group form-group-sm"> / </div>
-              <kbd-multi-numbox field="height2" size="6" min="0.5" max="24" step='{{sizeStep}}' kbd-disable="multi.decal"></kbd-multi-numbox>
+              <kbd-multi-numbox field="height2" size="6" min="0.5" max="18" step='{{sizeStep}}' kbd-disable="multi.decal"></kbd-multi-numbox>
             </div>
           </div>
         </div>
@@ -470,7 +470,7 @@ Nav Bar / Header
                data-hint="Specify the profile and (optionally) the row-number of the selected keys, e.g., 'DCS R1', 'DSA', 'DSA SPACE', etc.
 
                Supported profiles:
-               &nbsp;&bull; SA, DSA, DCS, OEM, CHICKLET, FLAT
+               &nbsp;&bull; SA, DSA, DCS, OEM, CHICKLET
 
                Supported rows:
                &nbsp;&bull; R1, R2, R3, R4, R5, SPACE">
@@ -904,22 +904,20 @@ Nav Bar / Header
 
   </div> <!-- END OF TAB CONTENT -->
 
-  <div class="row" style="margin-top:1em;margin-left:0px;">
-    <div class="col-md-12 col-lg-12">
-      <alert type="success" ng-hide="!saved" close="saved=false" ng-cloak>
-        Saved!  Your saved layout can be accessed via <a class="alert-link" ng-href="#/gists/{{saved}}">this link</a>.
-      </alert>
-      <alert type="danger" ng-hide="!saveError" close="saveError=''" ng-cloak>
-        <P>There was an error saving your layout on the server: {{saveError}}</P>
-        <P>To ensure you don't lose any data, it is recommended that you <a class="alert-link" ng-click="downloadJson()">download your layout as JSON</a>.</P>
-      </alert>
-      <alert type="danger" ng-hide="!loadError" close="loadError=false" ng-cloak>
-        The requested layout does not exist.
-      </alert>
-      <alert type="danger" ng-hide="!oauthError" close="oauthError=null" ng-cloak>
-        An error occurred during login: {{oauthError}}
-      </alert>
-    </div>
+  <div class="col-md-12 col-lg-12 row" style="margin-top:1em;margin-left:0px;">
+    <alert type="success" ng-hide="!saved" close="saved=false" ng-cloak>
+      Saved!  Your saved layout can be accessed via <a class="alert-link" ng-href="#/gists/{{saved}}">this link</a>.
+    </alert>
+    <alert type="danger" ng-hide="!saveError" close="saveError=''" ng-cloak>
+      <P>There was an error saving your layout on the server: {{saveError}}</P>
+      <P>To ensure you don't lose any data, it is recommended that you <a class="alert-link" ng-click="downloadJson()">download your layout as JSON</a>.</P>
+    </alert>
+    <alert type="danger" ng-hide="!loadError" close="loadError=false" ng-cloak>
+      The requested layout does not exist.
+    </alert>
+    <alert type="danger" ng-hide="!oauthError" close="oauthError=null" ng-cloak>
+      An error occurred during login: {{oauthError}}
+    </alert>
   </div>
 
 </div> <!-- body -->
@@ -931,11 +929,11 @@ Footer
 ************************************************-->
 <div id="footer" ng-cloak>
 <div class="container">
-  <div class="text-muted credit" style="float:left">
+  <p class="text-muted credit" style="float:left">
     Keyboard Layout Editor v{{version}} (<a href='#' ng-click="showMarkdown('CHANGELOG.md', $event)">changelog</a>)<br/>
-    Copyright &copy; 2013-2018 &mdash; Ian Prest (<a href='#' ng-click="showMarkdown('CONTRIB.md', $event)">and contributors</a>)<br/>
+    Copyright &copy; 2013-2015 &mdash; Ian Prest (<a href='#' ng-click="showMarkdown('CONTRIB.md', $event)">and contributors</a>)<br/>
     All rights reserved. (<a href='#' ng-click="showMarkdown('LICENSE.md', $event)">LICENSE</a>)
-  </div>
+  </p>
   <div style="float:right;">
     <a href="#" ng-click="showHelp($event)"><i class="fa fa-question-circle"></i> Help &amp; keyboard shortcuts</a><br/>
     <a href="https://github.com/ijprest/keyboard-layout-editor/issues" target="_blank"><i class="fa fa-bug"></i> Found a bug?</a><br/>
@@ -1212,13 +1210,13 @@ DOT.js Templates
 
     <div style="left: {{=parms.outercapx}}px; top: {{=parms.outercapy}}px;
                 width: {{=parms.outercapwidth}}px; height: {{=parms.outercapheight}}px;
-                border-width: {{=sizes.strokeWidth}}px; border-radius: {{=sizes.roundOuter}}px;
+                border-style: solid; border-width: {{=sizes.strokeWidth}}px; border-color: {{=parms.borderColor}}; border-radius: {{=sizes.roundOuter}}px;
                 background-color: {{=parms.darkColor}};"
          class="keyborder"></div>
   {{? parms.jShaped}}
     <div style="left: {{=parms.outercapx2}}px; top: {{=parms.outercapy2}}px;
                 width: {{=parms.outercapwidth2}}px; height: {{=parms.outercapheight2}}px;
-                border-width: {{=sizes.strokeWidth}}px; border-radius: {{=sizes.roundOuter}}px;
+                border-style: solid; border-width: {{=sizes.strokeWidth}}px; border-color: {{=parms.borderColor}}; border-radius: {{=sizes.roundOuter}}px;
                 background-color: {{=parms.darkColor}};"
          class="keyborder"></div>
     <div style="left: {{=parms.outercapx + sizes.strokeWidth}}px; top: {{=parms.outercapy + sizes.strokeWidth}}px;

@@ -134,6 +134,11 @@
 		"Symbolics PN 364000" : "/samples/symbolics-364000",
 		"Symbolics SpaceCadet" : "/samples/symbolics-spacecadet",
 		"Commodore VIC-20" : "/samples/commodore-vic20",
-		"Programmer's Keyboard": "/samples/pkb.json"
+		"Programmer's Keyboard": "/samples/pkb.json",
+		"ErgoDox": "/samples/ergodox.json",
+		"ErgoDox Russian": "/samples/ergodox_russian.json",
+		"ErgoDox English": "/samples/ergodox_english.json",
+		"ErgoDox Other": "/samples/ergodox_other.json",
+		"ErgoDox Browser": "/samples/ergodox_browser.json"
 	}
 }

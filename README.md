@@ -1,65 +1,23 @@
-keyboard-layout-editor
-----------------------
-[Keyboard-layout-editor.com](http://www.keyboard-layout-editor.com) is a web
-application that enables the editing of keyboard-layouts, i.e., the position
-and appearance of each physical key.
+# Описание
+Это мой форк сайта [keyboard-layout-editor]() с маленькими изменениями, такими как:
 
-The motivation for creating this application was a custom keyboard I was 
-designing.  I wanted to be able to experiment quickly with different possible
-layouts and visualize them easily.  The existing graphics tools were capable
-enough, but cumbersome to use for this specific task.
+ * Теперь все JSON'ы сохраняются без сжатия, соответственно сохраняется больше информации, чем раньше, без багованной системы оптимизации.
+ * Появился профиль ERGODOX, который выглядит намного красивей остальных.
+ * Имеются мои 4 раскладки для ErgoDox.
 
-As I sank further into the keyboard-enthusiast scene, I became aware of 
-custom keycap sets that were being created by and for other enthusiasts. The
-ability to specify various details of the visual-appearance of the keycaps
-is an attempt to render these custom keycap sets as accurately as possible
-(within the constraints of HTML/CSS).
+# Запуск
+Под Linux.
 
-Links
------
-* [Changelog](CHANGELOG.md)
-* [Contributors](CONTRIB.md)
-* [License](LICENSE.md)
+ * Скопировать этот репозиторий, открыть в нем консоль.
+ * `sudo python3 -m http.server 80`.
+ * В браузере зайти на: [localhost/kb.html](http://localhost/kb.html).
+ * Для выключения в консоли нажать Ctrl+C или Ctrl+Z.
 
-Getting Started for Developers
-------------------------------
-Want to play around with the source?  Install the tools, clone the repository,
-then build / test.
+# Создание скриншотов высокого разрешения
+Работает исключительно в Mozilla Firefox, проще его скачать для этих целей, чем искать альтернативы.
 
-Required Tools:
-
-* NodeJS/NPM: https://nodejs.org/
-* GNU Make: http://www.gnu.org/software/make/
-* FontForge: http://fontforge.github.io/en-US/
-* Bower: ```npm install -g bower```
-* Grunt: ```npm install -g grunt-cli```
-* Protractor: ```npm install -g protractor```
-* Jasmine: ```npm install -g jasmine```
-* Uglifyjs: ```npm install -g uglifyjs```
-* Stylus: ```npm install -g stylus```
-* Jison: ```npm install -g jison```
-* Git-utils: ```npm install git-utils -g ```
-
-Installing prerequisite components (once):
-
-* ```make install```
-
-Build:
-
-* ```make```
-* ```make fonts```
-
-Test:
-
-* ```webdriver-manager update```
-* ```webdriver-manager start```
-* ```make test```
-
-Notes:
-
-* You can use any HTTP server for local development; I'm using an ancient
-  version of [Mongoose](https://cesanta.com/mongoose.shtml), but whatever 
-  you've got handy should work.
-* However, if you want to be able to log in to GitHub via OAuth (without
-  hacking up the code and registering your own OAuth application), you will
-  need to put the server at: http://localhost:8080/
+ * Открыть на локальном сервере необходимую раскладку.
+ * Ctrl+Shift+K.
+ * `:screenshot <имя файла> --dpr <разрешение> --selector '#keyboard-bg'`.
+ 	* Имя файла указывать без `.png`.
+ 	* Разрешение - во сколько раз результат должен быть больше, чем исходная картинка. Я использую `4`.

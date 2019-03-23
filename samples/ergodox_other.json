@@ -1,0 +1,6924 @@
+[
+  1200,
+  {
+    "backcolor": "#FFFFFF",
+    "name": "",
+    "author": "",
+    "notes": "",
+    "radii": "",
+    "switchMount": "",
+    "switchBrand": "",
+    "switchType": "",
+    "css": ".keytop{\n    border: 0px !important;\n}\n\n.keylabels {\n    font-family: 'Lato';\n  font-weight: bold;\n}"
+  },
+  {
+    "x": 3.5,
+    "y": 0,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F3"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D6F3D7",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 189,
+      "y": 0,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 54
+    },
+    "rect2": {
+      "x": 189,
+      "y": 0,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 54
+    },
+    "bbox": {
+      "x": 189,
+      "y": 0,
+      "x2": 243,
+      "y2": 54,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 15,
+    "y": 0,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F4"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D6F3D7",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 810,
+      "y": 0,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 54
+    },
+    "rect2": {
+      "x": 810,
+      "y": 0,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 54
+    },
+    "bbox": {
+      "x": 810,
+      "y": 0,
+      "x2": 864,
+      "y2": 54,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 2.5,
+    "y": 0.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F5"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D5E5FE",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 135,
+      "y": 6.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 60.75
+    },
+    "rect2": {
+      "x": 135,
+      "y": 6.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 60.75
+    },
+    "bbox": {
+      "x": 135,
+      "y": 6.75,
+      "x2": 189,
+      "y2": 60.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 4.5,
+    "y": 0.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F1"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 243,
+      "y": 6.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 60.75
+    },
+    "rect2": {
+      "x": 243,
+      "y": 6.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 60.75
+    },
+    "bbox": {
+      "x": 243,
+      "y": 6.75,
+      "x2": 297,
+      "y2": 60.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 14,
+    "y": 0.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F2"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 756,
+      "y": 6.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 60.75
+    },
+    "rect2": {
+      "x": 756,
+      "y": 6.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 60.75
+    },
+    "bbox": {
+      "x": 756,
+      "y": 6.75,
+      "x2": 810,
+      "y2": 60.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 16,
+    "y": 0.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F6"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D5E5FE",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 864,
+      "y": 6.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 60.75
+    },
+    "rect2": {
+      "x": 864,
+      "y": 6.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 60.75
+    },
+    "bbox": {
+      "x": 864,
+      "y": 6.75,
+      "x2": 918,
+      "y2": 60.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 5.5,
+    "y": 0.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F9"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 297,
+      "y": 13.5,
+      "w": 54,
+      "h": 54,
+      "x2": 351,
+      "y2": 67.5
+    },
+    "rect2": {
+      "x": 297,
+      "y": 13.5,
+      "w": 54,
+      "h": 54,
+      "x2": 351,
+      "y2": 67.5
+    },
+    "bbox": {
+      "x": 297,
+      "y": 13.5,
+      "x2": 351,
+      "y2": 67.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 6.5,
+    "y": 0.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 351,
+      "y": 13.5,
+      "w": 54,
+      "h": 54,
+      "x2": 405,
+      "y2": 67.5
+    },
+    "rect2": {
+      "x": 351,
+      "y": 13.5,
+      "w": 54,
+      "h": 54,
+      "x2": 405,
+      "y2": 67.5
+    },
+    "bbox": {
+      "x": 351,
+      "y": 13.5,
+      "x2": 405,
+      "y2": 67.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 12,
+    "y": 0.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "Num Lock"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 648,
+      "y": 13.5,
+      "w": 54,
+      "h": 54,
+      "x2": 702,
+      "y2": 67.5
+    },
+    "rect2": {
+      "x": 648,
+      "y": 13.5,
+      "w": 54,
+      "h": 54,
+      "x2": 702,
+      "y2": 67.5
+    },
+    "bbox": {
+      "x": 648,
+      "y": 13.5,
+      "x2": 702,
+      "y2": 67.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 13,
+    "y": 0.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F10"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 702,
+      "y": 13.5,
+      "w": 54,
+      "h": 54,
+      "x2": 756,
+      "y2": 67.5
+    },
+    "rect2": {
+      "x": 702,
+      "y": 13.5,
+      "w": 54,
+      "h": 54,
+      "x2": 756,
+      "y2": 67.5
+    },
+    "bbox": {
+      "x": 702,
+      "y": 13.5,
+      "x2": 756,
+      "y2": 67.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 0,
+    "y": 0.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1.5,
+    "height": 1,
+    "width2": 1.5,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "❐ 4",
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 0,
+      "y": 20.25,
+      "w": 81,
+      "h": 54,
+      "x2": 81,
+      "y2": 74.25
+    },
+    "rect2": {
+      "x": 0,
+      "y": 20.25,
+      "w": 81,
+      "h": 54,
+      "x2": 81,
+      "y2": 74.25
+    },
+    "bbox": {
+      "x": 0,
+      "y": 20.25,
+      "x2": 81,
+      "y2": 74.25,
+      "w": 81,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 1.5,
+    "y": 0.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F7"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 81,
+      "y": 20.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 74.25
+    },
+    "rect2": {
+      "x": 81,
+      "y": 20.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 74.25
+    },
+    "bbox": {
+      "x": 81,
+      "y": 20.25,
+      "x2": 135,
+      "y2": 74.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 17,
+    "y": 0.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F8"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 918,
+      "y": 20.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 74.25
+    },
+    "rect2": {
+      "x": 918,
+      "y": 20.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 74.25
+    },
+    "bbox": {
+      "x": 918,
+      "y": 20.25,
+      "x2": 972,
+      "y2": 74.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 18,
+    "y": 0.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1.5,
+    "height": 1,
+    "width2": 1.5,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F11"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 972,
+      "y": 20.25,
+      "w": 81,
+      "h": 54,
+      "x2": 1053,
+      "y2": 74.25
+    },
+    "rect2": {
+      "x": 972,
+      "y": 20.25,
+      "w": 81,
+      "h": 54,
+      "x2": 1053,
+      "y2": 74.25
+    },
+    "bbox": {
+      "x": 972,
+      "y": 20.25,
+      "x2": 1053,
+      "y2": 74.25,
+      "w": 81,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 3.5,
+    "y": 1,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F10"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D6F3D7",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 189,
+      "y": 54,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 108
+    },
+    "rect2": {
+      "x": 189,
+      "y": 54,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 108
+    },
+    "bbox": {
+      "x": 189,
+      "y": 54,
+      "x2": 243,
+      "y2": 108,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 15,
+    "y": 1,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "End"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D6F3D7",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 810,
+      "y": 54,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 108
+    },
+    "rect2": {
+      "x": 810,
+      "y": 54,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 108
+    },
+    "bbox": {
+      "x": 810,
+      "y": 54,
+      "x2": 864,
+      "y2": 108,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 2.5,
+    "y": 1.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "F10"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D5E5FE",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 135,
+      "y": 60.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 114.75
+    },
+    "rect2": {
+      "x": 135,
+      "y": 60.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 114.75
+    },
+    "bbox": {
+      "x": 135,
+      "y": 60.75,
+      "x2": 189,
+      "y2": 114.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 4.5,
+    "y": 1.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F11"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 243,
+      "y": 60.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 114.75
+    },
+    "rect2": {
+      "x": 243,
+      "y": 60.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 114.75
+    },
+    "bbox": {
+      "x": 243,
+      "y": 60.75,
+      "x2": 297,
+      "y2": 114.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 14,
+    "y": 1.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "Home"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 756,
+      "y": 60.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 114.75
+    },
+    "rect2": {
+      "x": 756,
+      "y": 60.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 114.75
+    },
+    "bbox": {
+      "x": 756,
+      "y": 60.75,
+      "x2": 810,
+      "y2": 114.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 16,
+    "y": 1.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "PgUp"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D5E5FE",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 864,
+      "y": 60.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 114.75
+    },
+    "rect2": {
+      "x": 864,
+      "y": 60.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 114.75
+    },
+    "bbox": {
+      "x": 864,
+      "y": 60.75,
+      "x2": 918,
+      "y2": 114.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 5.5,
+    "y": 1.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "<i class='kb kb-logo-windows-7'></i>",
+      null,
+      null,
+      "D",
+      null,
+      null,
+      "Minimize all"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      "#0066ff",
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      1,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 297,
+      "y": 67.5,
+      "w": 54,
+      "h": 54,
+      "x2": 351,
+      "y2": 121.5
+    },
+    "rect2": {
+      "x": 297,
+      "y": 67.5,
+      "w": 54,
+      "h": 54,
+      "x2": 351,
+      "y2": 121.5
+    },
+    "bbox": {
+      "x": 297,
+      "y": 67.5,
+      "x2": 351,
+      "y2": 121.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 6.5,
+    "y": 1.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1.5,
+    "width2": 1,
+    "height2": 1.5,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 351,
+      "y": 67.5,
+      "w": 54,
+      "h": 81,
+      "x2": 405,
+      "y2": 148.5
+    },
+    "rect2": {
+      "x": 351,
+      "y": 67.5,
+      "w": 54,
+      "h": 81,
+      "x2": 405,
+      "y2": 148.5
+    },
+    "bbox": {
+      "x": 351,
+      "y": 67.5,
+      "x2": 405,
+      "y2": 148.5,
+      "w": 54,
+      "h": 81
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 12,
+    "y": 1.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1.5,
+    "width2": 1,
+    "height2": 1.5,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "Insert"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 648,
+      "y": 67.5,
+      "w": 54,
+      "h": 81,
+      "x2": 702,
+      "y2": 148.5
+    },
+    "rect2": {
+      "x": 648,
+      "y": 67.5,
+      "w": 54,
+      "h": 81,
+      "x2": 702,
+      "y2": 148.5
+    },
+    "bbox": {
+      "x": 648,
+      "y": 67.5,
+      "x2": 702,
+      "y2": 148.5,
+      "w": 54,
+      "h": 81
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 13,
+    "y": 1.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "Delete"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      3,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 702,
+      "y": 67.5,
+      "w": 54,
+      "h": 54,
+      "x2": 756,
+      "y2": 121.5
+    },
+    "rect2": {
+      "x": 702,
+      "y": 67.5,
+      "w": 54,
+      "h": 54,
+      "x2": 756,
+      "y2": 121.5
+    },
+    "bbox": {
+      "x": 702,
+      "y": 67.5,
+      "x2": 756,
+      "y2": 121.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 0,
+    "y": 1.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1.5,
+    "height": 1,
+    "width2": 1.5,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "<i class='kb kb-Multimedia-Mute-1'></i>"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 0,
+      "y": 74.25,
+      "w": 81,
+      "h": 54,
+      "x2": 81,
+      "y2": 128.25
+    },
+    "rect2": {
+      "x": 0,
+      "y": 74.25,
+      "w": 81,
+      "h": 54,
+      "x2": 81,
+      "y2": 128.25
+    },
+    "bbox": {
+      "x": 0,
+      "y": 74.25,
+      "x2": 81,
+      "y2": 128.25,
+      "w": 81,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 1.5,
+    "y": 1.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Shift",
+      null,
+      null,
+      "F11"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 81,
+      "y": 74.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 128.25
+    },
+    "rect2": {
+      "x": 81,
+      "y": 74.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 128.25
+    },
+    "bbox": {
+      "x": 81,
+      "y": 74.25,
+      "x2": 135,
+      "y2": 128.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 17,
+    "y": 1.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "PgDn"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 918,
+      "y": 74.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 128.25
+    },
+    "rect2": {
+      "x": 918,
+      "y": 74.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 128.25
+    },
+    "bbox": {
+      "x": 918,
+      "y": 74.25,
+      "x2": 972,
+      "y2": 128.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 18,
+    "y": 1.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1.5,
+    "height": 1,
+    "width2": 1.5,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "F12"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 972,
+      "y": 74.25,
+      "w": 81,
+      "h": 54,
+      "x2": 1053,
+      "y2": 128.25
+    },
+    "rect2": {
+      "x": 972,
+      "y": 74.25,
+      "w": 81,
+      "h": 54,
+      "x2": 1053,
+      "y2": 128.25
+    },
+    "bbox": {
+      "x": 972,
+      "y": 74.25,
+      "x2": 1053,
+      "y2": 128.25,
+      "w": 81,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 8.75,
+    "y": 1.75,
+    "x2": 0,
+    "y2": 0,
+    "width": 2,
+    "height": 1.25,
+    "width2": 2,
+    "height2": 1.25,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      "",
+      "Other",
+      "",
+      "",
+      "❐ 4",
+      "",
+      "<i class='kb kb-Multimedia-Record'></i>",
+      "<i class='kb kb-Multimedia-Record'></i>",
+      "<i class='kb kb-Multimedia-Record'></i>",
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "#ff0000",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "textSize": [
+      null,
+      5,
+      null,
+      null,
+      null,
+      null,
+      4,
+      4,
+      4,
+      null,
+      null,
+      null
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 3
+    },
+    "color": "#F4F4F4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 472.5,
+      "y": 94.5,
+      "w": 108,
+      "h": 67.5,
+      "x2": 580.5,
+      "y2": 162
+    },
+    "rect2": {
+      "x": 472.5,
+      "y": 94.5,
+      "w": 108,
+      "h": 67.5,
+      "x2": 580.5,
+      "y2": 162
+    },
+    "bbox": {
+      "x": 472.5,
+      "y": 94.5,
+      "x2": 580.5,
+      "y2": 162,
+      "w": 108,
+      "h": 67.5
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 3.5,
+    "y": 2,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl+Shift",
+      null,
+      null,
+      "Tab"
+    ],
+    "textColor": [
+      null,
+      "#3b3b3b",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      1,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#85DD87",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 189,
+      "y": 108,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 162
+    },
+    "rect2": {
+      "x": 189,
+      "y": 108,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 162
+    },
+    "bbox": {
+      "x": 189,
+      "y": 108,
+      "x2": 243,
+      "y2": 162,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 15,
+    "y": 2,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "▲"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#85DD87",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 810,
+      "y": 108,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 162
+    },
+    "rect2": {
+      "x": 810,
+      "y": 108,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 162
+    },
+    "bbox": {
+      "x": 810,
+      "y": 108,
+      "x2": 864,
+      "y2": 162,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 2.5,
+    "y": 2.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "<i class='kb kb-Multimedia-FastForward-End'></i>"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#7FB3FF",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 135,
+      "y": 114.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 168.75
+    },
+    "rect2": {
+      "x": 135,
+      "y": 114.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 168.75
+    },
+    "bbox": {
+      "x": 135,
+      "y": 114.75,
+      "x2": 189,
+      "y2": 168.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 4.5,
+    "y": 2.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "Tab",
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#3b3b3b",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      "#000000",
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      4,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FF7FB2",
+    "profile": "ERGODOX",
+    "nub": true,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 243,
+      "y": 114.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 168.75
+    },
+    "rect2": {
+      "x": 243,
+      "y": 114.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 168.75
+    },
+    "bbox": {
+      "x": 243,
+      "y": 114.75,
+      "x2": 297,
+      "y2": 168.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 14,
+    "y": 2.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "◀"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FF7FB2",
+    "profile": "ERGODOX",
+    "nub": true,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 756,
+      "y": 114.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 168.75
+    },
+    "rect2": {
+      "x": 756,
+      "y": 114.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 168.75
+    },
+    "bbox": {
+      "x": 756,
+      "y": 114.75,
+      "x2": 810,
+      "y2": 168.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 16,
+    "y": 2.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "▼"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#7FB3FF",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 864,
+      "y": 114.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 168.75
+    },
+    "rect2": {
+      "x": 864,
+      "y": 114.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 168.75
+    },
+    "bbox": {
+      "x": 864,
+      "y": 114.75,
+      "x2": 918,
+      "y2": 168.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 5.5,
+    "y": 2.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Alt",
+      null,
+      null,
+      "Tab"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      1,
+      3,
+      1,
+      1,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 297,
+      "y": 121.5,
+      "w": 54,
+      "h": 54,
+      "x2": 351,
+      "y2": 175.5
+    },
+    "rect2": {
+      "x": 297,
+      "y": 121.5,
+      "w": 54,
+      "h": 54,
+      "x2": 351,
+      "y2": 175.5
+    },
+    "bbox": {
+      "x": 297,
+      "y": 121.5,
+      "x2": 351,
+      "y2": 175.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 13,
+    "y": 2.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 702,
+      "y": 121.5,
+      "w": 54,
+      "h": 54,
+      "x2": 756,
+      "y2": 175.5
+    },
+    "rect2": {
+      "x": 702,
+      "y": 121.5,
+      "w": 54,
+      "h": 54,
+      "x2": 756,
+      "y2": 175.5
+    },
+    "bbox": {
+      "x": 702,
+      "y": 121.5,
+      "x2": 756,
+      "y2": 175.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 0,
+    "y": 2.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1.5,
+    "height": 1,
+    "width2": 1.5,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "⟲ 4"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 0,
+      "y": 128.25,
+      "w": 81,
+      "h": 54,
+      "x2": 81,
+      "y2": 182.25
+    },
+    "rect2": {
+      "x": 0,
+      "y": 128.25,
+      "w": 81,
+      "h": 54,
+      "x2": 81,
+      "y2": 182.25
+    },
+    "bbox": {
+      "x": 0,
+      "y": 128.25,
+      "x2": 81,
+      "y2": 182.25,
+      "w": 81,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 1.5,
+    "y": 2.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "<i class='kb kb-Multimedia-Volume-Up-1'></i>"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE481",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 81,
+      "y": 128.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 182.25
+    },
+    "rect2": {
+      "x": 81,
+      "y": 128.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 182.25
+    },
+    "bbox": {
+      "x": 81,
+      "y": 128.25,
+      "x2": 135,
+      "y2": 182.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 17,
+    "y": 2.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "▶"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE481",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 918,
+      "y": 128.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 182.25
+    },
+    "rect2": {
+      "x": 918,
+      "y": 128.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 182.25
+    },
+    "bbox": {
+      "x": 918,
+      "y": 128.25,
+      "x2": 972,
+      "y2": 182.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 18,
+    "y": 2.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1.5,
+    "height": 1,
+    "width2": 1.5,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "PrScr"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 972,
+      "y": 128.25,
+      "w": 81,
+      "h": 54,
+      "x2": 1053,
+      "y2": 182.25
+    },
+    "rect2": {
+      "x": 972,
+      "y": 128.25,
+      "w": 81,
+      "h": 54,
+      "x2": 1053,
+      "y2": 182.25
+    },
+    "bbox": {
+      "x": 972,
+      "y": 128.25,
+      "x2": 1053,
+      "y2": 182.25,
+      "w": 81,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 6.5,
+    "y": 2.75,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1.5,
+    "width2": 1,
+    "height2": 1.5,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 351,
+      "y": 148.5,
+      "w": 54,
+      "h": 81,
+      "x2": 405,
+      "y2": 229.5
+    },
+    "rect2": {
+      "x": 351,
+      "y": 148.5,
+      "w": 54,
+      "h": 81,
+      "x2": 405,
+      "y2": 229.5
+    },
+    "bbox": {
+      "x": 351,
+      "y": 148.5,
+      "x2": 405,
+      "y2": 229.5,
+      "w": 54,
+      "h": 81
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 12,
+    "y": 2.75,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1.5,
+    "width2": 1,
+    "height2": 1.5,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "Pause Break"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 648,
+      "y": 148.5,
+      "w": 54,
+      "h": 81,
+      "x2": 702,
+      "y2": 229.5
+    },
+    "rect2": {
+      "x": 648,
+      "y": 148.5,
+      "w": 54,
+      "h": 81,
+      "x2": 702,
+      "y2": 229.5
+    },
+    "bbox": {
+      "x": 648,
+      "y": 148.5,
+      "x2": 702,
+      "y2": 229.5,
+      "w": 54,
+      "h": 81
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 3.5,
+    "y": 3,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "1"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D6F3D7",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 189,
+      "y": 162,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 216
+    },
+    "rect2": {
+      "x": 189,
+      "y": 162,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 216
+    },
+    "bbox": {
+      "x": 189,
+      "y": 162,
+      "x2": 243,
+      "y2": 216,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 15,
+    "y": 3,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "▲"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D6F3D7",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 810,
+      "y": 162,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 216
+    },
+    "rect2": {
+      "x": 810,
+      "y": 162,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 216
+    },
+    "bbox": {
+      "x": 810,
+      "y": 162,
+      "x2": 864,
+      "y2": 216,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 2.5,
+    "y": 3.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "<i class='kb kb-Multimedia-Rewind-Start'></i>"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D5E5FE",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 135,
+      "y": 168.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 222.75
+    },
+    "rect2": {
+      "x": 135,
+      "y": 168.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 222.75
+    },
+    "bbox": {
+      "x": 135,
+      "y": 168.75,
+      "x2": 189,
+      "y2": 222.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 4.5,
+    "y": 3.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "2"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 243,
+      "y": 168.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 222.75
+    },
+    "rect2": {
+      "x": 243,
+      "y": 168.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 222.75
+    },
+    "bbox": {
+      "x": 243,
+      "y": 168.75,
+      "x2": 297,
+      "y2": 222.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 14,
+    "y": 3.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "◀"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 756,
+      "y": 168.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 222.75
+    },
+    "rect2": {
+      "x": 756,
+      "y": 168.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 222.75
+    },
+    "bbox": {
+      "x": 756,
+      "y": 168.75,
+      "x2": 810,
+      "y2": 222.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 16,
+    "y": 3.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "▼"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#D5E5FE",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 864,
+      "y": 168.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 222.75
+    },
+    "rect2": {
+      "x": 864,
+      "y": 168.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 222.75
+    },
+    "bbox": {
+      "x": 864,
+      "y": 168.75,
+      "x2": 918,
+      "y2": 222.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 5.5,
+    "y": 3.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Alt",
+      null,
+      null,
+      "Tab",
+      null,
+      null,
+      "Tab"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      1,
+      1,
+      3,
+      null,
+      null,
+      3,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 297,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 351,
+      "y2": 229.5
+    },
+    "rect2": {
+      "x": 297,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 351,
+      "y2": 229.5
+    },
+    "bbox": {
+      "x": 297,
+      "y": 175.5,
+      "x2": 351,
+      "y2": 229.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 13,
+    "y": 3.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "<i class='kb kb-Return-4'></i>"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFD4E5",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 702,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 756,
+      "y2": 229.5
+    },
+    "rect2": {
+      "x": 702,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 756,
+      "y2": 229.5
+    },
+    "bbox": {
+      "x": 702,
+      "y": 175.5,
+      "x2": 756,
+      "y2": 229.5,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 0,
+    "y": 3.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1.5,
+    "height": 1,
+    "width2": 1.5,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 0,
+      "y": 182.25,
+      "w": 81,
+      "h": 54,
+      "x2": 81,
+      "y2": 236.25
+    },
+    "rect2": {
+      "x": 0,
+      "y": 182.25,
+      "w": 81,
+      "h": 54,
+      "x2": 81,
+      "y2": 236.25
+    },
+    "bbox": {
+      "x": 0,
+      "y": 182.25,
+      "x2": 81,
+      "y2": 236.25,
+      "w": 81,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 1.5,
+    "y": 3.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "<i class='kb kb-Multimedia-Volume-Down-1'></i>"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 81,
+      "y": 182.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 236.25
+    },
+    "rect2": {
+      "x": 81,
+      "y": 182.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 236.25
+    },
+    "bbox": {
+      "x": 81,
+      "y": 182.25,
+      "x2": 135,
+      "y2": 236.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 17,
+    "y": 3.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Ctrl",
+      null,
+      null,
+      "▶"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 918,
+      "y": 182.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 236.25
+    },
+    "rect2": {
+      "x": 918,
+      "y": 182.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 236.25
+    },
+    "bbox": {
+      "x": 918,
+      "y": 182.25,
+      "x2": 972,
+      "y2": 236.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 18,
+    "y": 3.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1.5,
+    "height": 1,
+    "width2": 1.5,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Alt",
+      null,
+      null,
+      "PrScr"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFF4D4",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 972,
+      "y": 182.25,
+      "w": 81,
+      "h": 54,
+      "x2": 1053,
+      "y2": 236.25
+    },
+    "rect2": {
+      "x": 972,
+      "y": 182.25,
+      "w": 81,
+      "h": 54,
+      "x2": 1053,
+      "y2": 236.25
+    },
+    "bbox": {
+      "x": 972,
+      "y": 182.25,
+      "x2": 1053,
+      "y2": 236.25,
+      "w": 81,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 3.5,
+    "y": 4,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "<i class='kb kb-logo-windows-7'></i>",
+      null,
+      null,
+      "E",
+      null,
+      null,
+      "Explorer"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      "#0066ff",
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      1,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 189,
+      "y": 216,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 270
+    },
+    "rect2": {
+      "x": 189,
+      "y": 216,
+      "w": 54,
+      "h": 54,
+      "x2": 243,
+      "y2": 270
+    },
+    "bbox": {
+      "x": 189,
+      "y": 216,
+      "x2": 243,
+      "y2": 270,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 15,
+    "y": 4,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 810,
+      "y": 216,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 270
+    },
+    "rect2": {
+      "x": 810,
+      "y": 216,
+      "w": 54,
+      "h": 54,
+      "x2": 864,
+      "y2": 270
+    },
+    "bbox": {
+      "x": 810,
+      "y": 216,
+      "x2": 864,
+      "y2": 270,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 2.5,
+    "y": 4.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Dyn 1",
+      null,
+      null,
+      "Start",
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#007a04",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 135,
+      "y": 222.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 276.75
+    },
+    "rect2": {
+      "x": 135,
+      "y": 222.75,
+      "w": 54,
+      "h": 54,
+      "x2": 189,
+      "y2": 276.75
+    },
+    "bbox": {
+      "x": 135,
+      "y": 222.75,
+      "x2": 189,
+      "y2": 276.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 4.5,
+    "y": 4.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      "<i class='kb kb-Multimedia-Play-Pause'></i>"
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      1,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 243,
+      "y": 222.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 276.75
+    },
+    "rect2": {
+      "x": 243,
+      "y": 222.75,
+      "w": 54,
+      "h": 54,
+      "x2": 297,
+      "y2": 276.75
+    },
+    "bbox": {
+      "x": 243,
+      "y": 222.75,
+      "x2": 297,
+      "y2": 276.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 14,
+    "y": 4.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 756,
+      "y": 222.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 276.75
+    },
+    "rect2": {
+      "x": 756,
+      "y": 222.75,
+      "w": 54,
+      "h": 54,
+      "x2": 810,
+      "y2": 276.75
+    },
+    "bbox": {
+      "x": 756,
+      "y": 222.75,
+      "x2": 810,
+      "y2": 276.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 16,
+    "y": 4.125,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Dyn2",
+      null,
+      null,
+      "Start"
+    ],
+    "textColor": [
+      null,
+      "#007a04",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 864,
+      "y": 222.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 276.75
+    },
+    "rect2": {
+      "x": 864,
+      "y": 222.75,
+      "w": 54,
+      "h": 54,
+      "x2": 918,
+      "y2": 276.75
+    },
+    "bbox": {
+      "x": 864,
+      "y": 222.75,
+      "x2": 918,
+      "y2": 276.75,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 0.5,
+    "y": 4.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Dyn1",
+      null,
+      null,
+      "Play"
+    ],
+    "textColor": [
+      null,
+      "#007a04",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 27,
+      "y": 236.25,
+      "w": 54,
+      "h": 54,
+      "x2": 81,
+      "y2": 290.25
+    },
+    "rect2": {
+      "x": 27,
+      "y": 236.25,
+      "w": 54,
+      "h": 54,
+      "x2": 81,
+      "y2": 290.25
+    },
+    "bbox": {
+      "x": 27,
+      "y": 236.25,
+      "x2": 81,
+      "y2": 290.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 1.5,
+    "y": 4.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Dyn1",
+      null,
+      null,
+      "Stop"
+    ],
+    "textColor": [
+      null,
+      "#007a04",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 81,
+      "y": 236.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 290.25
+    },
+    "rect2": {
+      "x": 81,
+      "y": 236.25,
+      "w": 54,
+      "h": 54,
+      "x2": 135,
+      "y2": 290.25
+    },
+    "bbox": {
+      "x": 81,
+      "y": 236.25,
+      "x2": 135,
+      "y2": 290.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 17,
+    "y": 4.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Dyn2",
+      null,
+      null,
+      "Stop"
+    ],
+    "textColor": [
+      null,
+      "#007a04",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 918,
+      "y": 236.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 290.25
+    },
+    "rect2": {
+      "x": 918,
+      "y": 236.25,
+      "w": 54,
+      "h": 54,
+      "x2": 972,
+      "y2": 290.25
+    },
+    "bbox": {
+      "x": 918,
+      "y": 236.25,
+      "x2": 972,
+      "y2": 290.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 18,
+    "y": 4.375,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 0,
+    "rotation_x": 0,
+    "rotation_y": 0,
+    "labels": [
+      null,
+      "Dyn2",
+      null,
+      null,
+      "Play"
+    ],
+    "textColor": [
+      null,
+      "#007a04",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": false,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 972,
+      "y": 236.25,
+      "w": 54,
+      "h": 54,
+      "x2": 1026,
+      "y2": 290.25
+    },
+    "rect2": {
+      "x": 972,
+      "y": 236.25,
+      "w": 54,
+      "h": 54,
+      "x2": 1026,
+      "y2": 290.25
+    },
+    "bbox": {
+      "x": 972,
+      "y": 236.25,
+      "x2": 1026,
+      "y2": 290.25,
+      "w": 54,
+      "h": 54
+    },
+    "mat": {
+      "a": 1,
+      "b": 0,
+      "c": 0,
+      "d": 1,
+      "e": 0,
+      "f": 0
+    },
+    "crosshairs": "none",
+    "html": {}
+  },
+  {
+    "x": 7.5,
+    "y": 3.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 30,
+    "rotation_x": 6.5,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 405,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 459,
+      "y2": 229.5
+    },
+    "rect2": {
+      "x": 405,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 459,
+      "y2": 229.5
+    },
+    "bbox": {
+      "x": 397.7653718043597,
+      "y": 209.7346281956403,
+      "x2": 471.5307436087194,
+      "y2": 283.5,
+      "w": 73.76537180435969,
+      "h": 73.76537180435969
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": -0.49999999999999994,
+      "c": 0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": -67.72491672833797,
+      "f": 206.2471698314713
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 351,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 8.5,
+    "y": 3.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 30,
+    "rotation_x": 6.5,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 459,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 513,
+      "y2": 229.5
+    },
+    "rect2": {
+      "x": 459,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 513,
+      "y2": 229.5
+    },
+    "bbox": {
+      "x": 444.5307436087194,
+      "y": 236.7346281956403,
+      "x2": 518.2961154130791,
+      "y2": 310.49999999999994,
+      "w": 73.76537180435969,
+      "h": 73.76537180435963
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": -0.49999999999999994,
+      "c": 0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": -67.72491672833797,
+      "f": 206.2471698314713
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 351,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 6.5,
+    "y": 4.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 2,
+    "width2": 1,
+    "height2": 2,
+    "rotation_angle": 30,
+    "rotation_x": 6.5,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFB180",
+    "profile": "ERGODOX",
+    "nub": true,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 351,
+      "y": 229.5,
+      "w": 54,
+      "h": 108,
+      "x2": 405,
+      "y2": 337.5
+    },
+    "rect2": {
+      "x": 351,
+      "y": 229.5,
+      "w": 54,
+      "h": 108,
+      "x2": 405,
+      "y2": 337.5
+    },
+    "bbox": {
+      "x": 297,
+      "y": 229.5,
+      "x2": 397.7653718043597,
+      "y2": 350.03074360871943,
+      "w": 100.76537180435969,
+      "h": 120.53074360871943
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": -0.49999999999999994,
+      "c": 0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": -67.72491672833797,
+      "f": 206.2471698314713
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 351,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 7.5,
+    "y": 4.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 2,
+    "width2": 1,
+    "height2": 2,
+    "rotation_angle": 30,
+    "rotation_x": 6.5,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 405,
+      "y": 229.5,
+      "w": 54,
+      "h": 108,
+      "x2": 459,
+      "y2": 337.5
+    },
+    "rect2": {
+      "x": 405,
+      "y": 229.5,
+      "w": 54,
+      "h": 108,
+      "x2": 459,
+      "y2": 337.5
+    },
+    "bbox": {
+      "x": 343.7653718043597,
+      "y": 256.5,
+      "x2": 444.5307436087194,
+      "y2": 377.03074360871943,
+      "w": 100.76537180435969,
+      "h": 120.53074360871943
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": -0.49999999999999994,
+      "c": 0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": -67.72491672833797,
+      "f": 206.2471698314713
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 351,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 8.5,
+    "y": 4.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 30,
+    "rotation_x": 6.5,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 459,
+      "y": 229.5,
+      "w": 54,
+      "h": 54,
+      "x2": 513,
+      "y2": 283.5
+    },
+    "rect2": {
+      "x": 459,
+      "y": 229.5,
+      "w": 54,
+      "h": 54,
+      "x2": 513,
+      "y2": 283.5
+    },
+    "bbox": {
+      "x": 417.5307436087194,
+      "y": 283.5,
+      "x2": 491.29611541307906,
+      "y2": 357.26537180435963,
+      "w": 73.76537180435969,
+      "h": 73.76537180435963
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": -0.49999999999999994,
+      "c": 0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": -67.72491672833797,
+      "f": 206.2471698314713
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 351,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 8.5,
+    "y": 5.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": 30,
+    "rotation_x": 6.5,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 459,
+      "y": 283.5,
+      "w": 54,
+      "h": 54,
+      "x2": 513,
+      "y2": 337.5
+    },
+    "rect2": {
+      "x": 459,
+      "y": 283.5,
+      "w": 54,
+      "h": 54,
+      "x2": 513,
+      "y2": 337.5
+    },
+    "bbox": {
+      "x": 390.5307436087194,
+      "y": 330.2653718043597,
+      "x2": 464.2961154130791,
+      "y2": 404.0307436087193,
+      "w": 73.76537180435975,
+      "h": 73.76537180435963
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": -0.49999999999999994,
+      "c": 0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": -67.72491672833797,
+      "f": 206.2471698314713
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 351,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 10,
+    "y": 3.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": -30,
+    "rotation_x": 13,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 540,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 594,
+      "y2": 229.5
+    },
+    "rect2": {
+      "x": 540,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 594,
+      "y2": 229.5
+    },
+    "bbox": {
+      "x": 534.7038845869209,
+      "y": 236.73462819564034,
+      "x2": 608.4692563912806,
+      "y2": 310.5,
+      "w": 73.76537180435969,
+      "h": 73.76537180435966
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": 0.49999999999999994,
+      "c": -0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": 208.80016654332405,
+      "f": -320.2528301685286
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 702,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 11,
+    "y": 3.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": -30,
+    "rotation_x": 13,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#a8f0e6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 594,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 648,
+      "y2": 229.5
+    },
+    "rect2": {
+      "x": 594,
+      "y": 175.5,
+      "w": 54,
+      "h": 54,
+      "x2": 648,
+      "y2": 229.5
+    },
+    "bbox": {
+      "x": 581.4692563912806,
+      "y": 209.73462819564034,
+      "x2": 655.2346281956403,
+      "y2": 283.5,
+      "w": 73.76537180435969,
+      "h": 73.76537180435966
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": 0.49999999999999994,
+      "c": -0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": 208.80016654332405,
+      "f": -320.2528301685286
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 702,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 10,
+    "y": 4.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": -30,
+    "rotation_x": 13,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 540,
+      "y": 229.5,
+      "w": 54,
+      "h": 54,
+      "x2": 594,
+      "y2": 283.5
+    },
+    "rect2": {
+      "x": 540,
+      "y": 229.5,
+      "w": 54,
+      "h": 54,
+      "x2": 594,
+      "y2": 283.5
+    },
+    "bbox": {
+      "x": 561.7038845869209,
+      "y": 283.5,
+      "x2": 635.4692563912806,
+      "y2": 357.2653718043597,
+      "w": 73.76537180435969,
+      "h": 73.76537180435969
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": 0.49999999999999994,
+      "c": -0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": 208.80016654332405,
+      "f": -320.2528301685286
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 702,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 11,
+    "y": 4.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 2,
+    "width2": 1,
+    "height2": 2,
+    "rotation_angle": -30,
+    "rotation_x": 13,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 594,
+      "y": 229.5,
+      "w": 54,
+      "h": 108,
+      "x2": 648,
+      "y2": 337.5
+    },
+    "rect2": {
+      "x": 594,
+      "y": 229.5,
+      "w": 54,
+      "h": 108,
+      "x2": 648,
+      "y2": 337.5
+    },
+    "bbox": {
+      "x": 608.4692563912806,
+      "y": 256.5,
+      "x2": 709.2346281956403,
+      "y2": 377.03074360871943,
+      "w": 100.76537180435969,
+      "h": 120.53074360871943
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": 0.49999999999999994,
+      "c": -0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": 208.80016654332405,
+      "f": -320.2528301685286
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 702,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 12,
+    "y": 4.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 2,
+    "width2": 1,
+    "height2": 2,
+    "rotation_angle": -30,
+    "rotation_x": 13,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFB180",
+    "profile": "ERGODOX",
+    "nub": true,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 648,
+      "y": 229.5,
+      "w": 54,
+      "h": 108,
+      "x2": 702,
+      "y2": 337.5
+    },
+    "rect2": {
+      "x": 648,
+      "y": 229.5,
+      "w": 54,
+      "h": 108,
+      "x2": 702,
+      "y2": 337.5
+    },
+    "bbox": {
+      "x": 655.2346281956403,
+      "y": 229.50000000000003,
+      "x2": 756,
+      "y2": 350.03074360871943,
+      "w": 100.76537180435969,
+      "h": 120.5307436087194
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": 0.49999999999999994,
+      "c": -0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": 208.80016654332405,
+      "f": -320.2528301685286
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 702,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  {
+    "x": 10,
+    "y": 5.25,
+    "x2": 0,
+    "y2": 0,
+    "width": 1,
+    "height": 1,
+    "width2": 1,
+    "height2": 1,
+    "rotation_angle": -30,
+    "rotation_x": 13,
+    "rotation_y": 4.25,
+    "labels": [
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    "textColor": [
+      null,
+      "#828282",
+      null,
+      null,
+      "#000000",
+      null,
+      null,
+      null,
+      "#828282"
+    ],
+    "textSize": [
+      null,
+      3,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null,
+      3
+    ],
+    "default": {
+      "textColor": "#000000",
+      "textSize": 4
+    },
+    "color": "#FFE5D6",
+    "profile": "ERGODOX",
+    "nub": false,
+    "ghost": true,
+    "stepped": false,
+    "decal": false,
+    "sm": "",
+    "sb": "",
+    "st": "",
+    "rect": {
+      "x": 540,
+      "y": 283.5,
+      "w": 54,
+      "h": 54,
+      "x2": 594,
+      "y2": 337.5
+    },
+    "rect2": {
+      "x": 540,
+      "y": 283.5,
+      "w": 54,
+      "h": 54,
+      "x2": 594,
+      "y2": 337.5
+    },
+    "bbox": {
+      "x": 588.7038845869209,
+      "y": 330.2653718043597,
+      "x2": 662.4692563912806,
+      "y2": 404.03074360871943,
+      "w": 73.76537180435969,
+      "h": 73.76537180435975
+    },
+    "mat": {
+      "a": 0.8660254037844387,
+      "b": 0.49999999999999994,
+      "c": -0.49999999999999994,
+      "d": 0.8660254037844387,
+      "e": 208.80016654332405,
+      "f": -320.2528301685286
+    },
+    "crosshairs": "block",
+    "crosshairs_x": 702,
+    "crosshairs_y": 229.5,
+    "html": {}
+  },
+  null,
+  null
+]

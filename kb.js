@@ -187,25 +187,18 @@
 		};
 		$scope.canSave = function() {
 			return $scope.dirty && $scope.user && $scope.user.id;
-    };
-    $scope.getFilename = function() {
-      var name = $scope.keyboard.meta.name.toLowerCase();
-      name = name.replace(/[\/\?<>\\:\*\|": \t\x00-\x1f\x80-\x9f\.]+/g,'-'); // control codes, whitespace & invalid filename characters
-      name = name.replace(/^(con|prn|aux|nul|com[0-9]|lpt[0-9])$/,''); // reserved windows filenames
-      console.log(name);
-      return name || "keyboard-layout";
-    }
+		};
 		$scope.downloadSvg = function() {
 			var data = $renderKey.fullSVG($scope.keys(), $scope.keyboard.meta);
 			var blob = new Blob([data], {type:"image/svg+xml"});
-			saveAs(blob, $scope.getFilename()+".svg");
+			saveAs(blob, "keyboard-layout.svg");
 		};
 		$scope.downloadPng = function() {
 			html2canvas($("#keyboard-bg"), {
 				useCORS: true,
 				onrendered: function(canvas) {
 					canvas.toBlob(function(blob) {
-						saveAs(blob, $scope.getFilename()+".png");
+						saveAs(blob, "keyboard-layout.png");
 					});
 				}
 			});
@@ -231,7 +224,7 @@
 				onrendered: function(canvas) {
 					var thm = getResizedCanvas(canvas,canvas.width,canvas.height,'white'); // not actually resize, just get white background
 					thm.toBlob(function(blob) {
-						saveAs(blob, $scope.getFilename()+".jpg");
+						saveAs(blob, "keyboard-layout.jpg");
 					},"image/jpeg");
 				}
 			});
@@ -246,7 +239,7 @@
 					var thmheight = canvas.height * p;
 					var thm = getResizedCanvas(canvas,thmwidth,thmheight,'');
 					thm.toBlob(function(blob) {
-						saveAs(blob, $scope.getFilename()+"-thumb.png");
+						saveAs(blob, "keyboard-thumb.png");
 					});
 				}
 			})
@@ -255,7 +248,7 @@
 		$scope.downloadJson = function() {
 			var data = angular.toJson($serial.serialize($scope.keyboard), true /*pretty*/);
 			var blob = new Blob([data], {type:"application/json"});
-			saveAs(blob, $scope.getFilename()+".json");
+			saveAs(blob, "keyboard-layout.json");
 		};
 		$scope.uploadJson = function(file, event) {
 			if(file && file[0]) {
@@ -809,10 +802,10 @@
 				y : function() { return Math.max(0, Math.min(36, value)); },
 				x2 : function() { return Math.max(-Math.abs(key.width-key.width2), Math.min(Math.abs(key.width-key.width2), value)); },
 				y2 : function() { return Math.max(-Math.abs(key.height-key.height2), Math.min(Math.abs(key.height-key.height2), value)); },
-				width : function() { return Math.max(0.5, Math.min(24, value)); },
-				height : function() { return Math.max(0.5, Math.min(24, value)); },
-				width2 : function() { return Math.max(0.5, Math.min(24, value)); },
-				height2 : function() { return Math.max(0.5, Math.min(24, value)); },
+				width : function() { return Math.max(0.5, Math.min(18, value)); },
+				height : function() { return Math.max(0.5, Math.min(18, value)); },
+				width2 : function() { return Math.max(0.5, Math.min(18, value)); },
+				height2 : function() { return Math.max(0.5, Math.min(18, value)); },
 				textSize : function() { return Math.max(1, Math.min(9, value)); },
 				rotation_angle : function() { return Math.max(-180, Math.min(180, value)); },
 				rotation_x : function() { return Math.max(0, Math.min(36, value)); },
