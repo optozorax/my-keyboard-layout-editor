@@ -785,10 +785,10 @@
     "rotation_y": 0,
     "labels": [
       null,
-      "Shift",
+      "Ctrl",
       null,
       null,
-      "PrScr"
+      "D"
     ],
     "textColor": [
       null,
@@ -2076,7 +2076,7 @@
       "Ctrl",
       null,
       null,
-      "D",
+      "S",
       null,
       null,
       null,
@@ -2626,7 +2626,7 @@
       "English",
       "",
       "",
-      "❐ 0, 1",
+      "⓿, ❶",
       "",
       "<i class='kb kb-Multimedia-Record'></i>",
       "<i class='kb kb-Multimedia-Record'></i>",
@@ -3439,7 +3439,7 @@
       null,
       null,
       null,
-      "⟲ 4"
+      "④"
     ],
     "textColor": [
       null,
@@ -3457,7 +3457,7 @@
       3,
       null,
       null,
-      4,
+      9,
       null,
       null,
       null,
@@ -3896,7 +3896,7 @@
       "Ctrl",
       "",
       "",
-      "S",
+      "<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>",
       "",
       "",
       null,
@@ -4703,7 +4703,7 @@
       null,
       null,
       null,
-      "⟲ 5"
+      "⑤"
     ],
     "textColor": [
       null,
@@ -4721,7 +4721,7 @@
       3,
       null,
       null,
-      4,
+      9,
       null,
       null,
       null,
@@ -5257,7 +5257,7 @@
       null,
       null,
       null,
-      "❐ 6"
+      "❻"
     ],
     "textColor": [
       null,
@@ -5623,7 +5623,7 @@
       null,
       null,
       null,
-      "❐ 4"
+      "❹"
     ],
     "textColor": [
       null,
@@ -5712,7 +5712,7 @@
       null,
       null,
       null,
-      "❐ 5"
+      "❺"
     ],
     "textColor": [
       null,

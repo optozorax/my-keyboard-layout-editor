@@ -740,7 +740,7 @@
       null,
       null,
       null,
-      "Num Lock"
+      "Pause Break"
     ],
     "textColor": [
       null,
@@ -918,7 +918,7 @@
       null,
       null,
       null,
-      "❐ 4",
+      "❹",
       null,
       null,
       null,
@@ -2527,7 +2527,7 @@
       "Other",
       "",
       "",
-      "❐ 4",
+      "❹",
       "",
       "<i class='kb kb-Multimedia-Record'></i>",
       "<i class='kb kb-Multimedia-Record'></i>",
@@ -3251,10 +3251,10 @@
     "rotation_y": 0,
     "labels": [
       null,
-      "Ctrl",
+      "Ctrl+Shift",
       null,
       null,
-      "<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>"
+      "K"
     ],
     "textColor": [
       null,
@@ -3269,7 +3269,7 @@
     ],
     "textSize": [
       null,
-      3,
+      1,
       null,
       null,
       4,
@@ -3343,7 +3343,7 @@
       null,
       null,
       null,
-      "⟲ 4"
+      "④"
     ],
     "textColor": [
       null,
@@ -3361,7 +3361,7 @@
       3,
       null,
       null,
-      4,
+      9,
       null,
       null,
       null,
@@ -3819,7 +3819,7 @@
     "color": "#FFD4E5",
     "profile": "ERGODOX",
     "nub": false,
-    "ghost": false,
+    "ghost": true,
     "stepped": false,
     "decal": false,
     "sm": "",
