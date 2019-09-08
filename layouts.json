@@ -139,6 +139,7 @@
 		"ErgoDox Russian": "/samples/ergodox_russian.json",
 		"ErgoDox English": "/samples/ergodox_english.json",
 		"ErgoDox Other": "/samples/ergodox_other.json",
-		"ErgoDox Browser": "/samples/ergodox_browser.json"
+		"ErgoDox Browser": "/samples/ergodox_browser.json",
+		"Codenets": "/samples/codenets.json"
 	}
 }
